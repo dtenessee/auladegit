@@ -1,3 +1,13 @@
+
+23100458971412655442221589852163348432.jpeg
+editado
+estamos indo para o 3 commit
+
+-----------------------------------------------------------
+
+Como o professor disse, esdtou colocando qualquer coisa.
+:)
+CONFLITOOOOOOOO
 230824
 no momento editando
 estamos indo para o 4 commit
@@ -5,3 +15,4 @@ estamos indo para o 4 commit
 
 aula 30/08 // conflitando branchs
 testando testando
+
