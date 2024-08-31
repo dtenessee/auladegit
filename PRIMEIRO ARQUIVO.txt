@@ -1,3 +1,7 @@
 230824
-editado
-estamos indo para o 3 commit
+no momento editando
+estamos indo para o 4 commit
+
+
+aula 30/08 // conflitando branchs
+testando testando
